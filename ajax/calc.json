@@ -1,0 +1,32 @@
+{
+  "PHP": {
+    "junior": 1000,
+    "middle": 2000,
+    "senior": 3000
+  },
+  ".Net": {
+    "junior": 1000,
+    "middle": 4500,
+    "senior": 3000
+  },
+  "C#": {
+    "junior": 1000,
+    "middle": 4050,
+    "senior": 3000
+  },
+  "Python": {
+    "junior": 1000,
+    "middle": 2000,
+    "senior": 3000
+  },
+  "Android": {
+    "junior": 1000,
+    "middle": 2000,
+    "senior": 3000
+  },
+  "Java": {
+    "junior": 1000,
+    "middle": 2000,
+    "senior": 3000
+  }
+}
