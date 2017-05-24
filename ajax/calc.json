@@ -1,32 +1,128 @@
 {
   "PHP": {
-    "junior": 1000,
-    "middle": 2000,
-    "senior": 3000
+    "Junior": 500,
+    "Middle": 850,
+    "Senior": 1500
   },
   ".Net": {
-    "junior": 1000,
-    "middle": 4500,
-    "senior": 3000
+    "Junior": 800,
+    "Middle": 1800,
+    "Senior": 2400
   },
   "C#": {
-    "junior": 1000,
-    "middle": 4050,
-    "senior": 3000
+    "Junior": 800,
+    "Middle": 1800,
+    "Senior": 2400
   },
   "Python": {
-    "junior": 1000,
-    "middle": 2000,
-    "senior": 3000
+    "Junior": 1000,
+    "Middle": 1500,
+    "Senior": 2500
   },
   "Android": {
-    "junior": 1000,
-    "middle": 2000,
-    "senior": 3000
+    "Junior": 600,
+    "Middle": 1200,
+    "Senior": 2500
   },
   "Java": {
-    "junior": 1000,
-    "middle": 2000,
-    "senior": 3000
+    "Junior": 600,
+    "Middle": 1500,
+    "Senior": 2200
+  },
+  "iOS": {
+    "Junior": 700,
+    "Middle": 1600,
+    "Senior": 2500
+  },
+  "Ruby": {
+    "Junior": 700,
+    "Middle": 1600,
+    "Senior": 2500
+  },
+  "ROR": {
+    "Junior": 700,
+    "Middle": 1600,
+    "Senior": 2500
+  },
+  "QA": {
+    "Junior": 300,
+    "Middle": 1000,
+    "Senior": 1800
+  },
+  "HR Marketing": {
+    "Junior": 300,
+    "Middle": 800,
+    "Senior": 1500
+  },
+  "3d Designer": {
+    "Junior": 300,
+    "Middle": 800,
+    "Senior": 1500
+  },
+  "Designer": {
+    "Junior": 300,
+    "Middle": 600,
+    "Senior": 1200
+  },
+  "Video designer": {
+    "Junior": 400,
+    "Middle": 800,
+    "Senior": 1500
+  },
+  "HTML": {
+    "Junior": 300,
+    "Middle": 600,
+    "Senior": 1000
+  },
+  "Product Manager": {
+    "Junior": 1500,
+    "Middle": 1800,
+    "Senior": 2000
+  },
+  "SQL": {
+    "Junior": 500,
+    "Middle": 1600,
+    "Senior": 2000
+  },
+  "Scrum Master": {
+    "Junior": 1000,
+    "Middle": 1500,
+    "Senior": 3000
+  },
+  "Project Manager": {
+    "Junior": 1000,
+    "Middle": 1500,
+    "Senior": 2500
+  },
+  "Angular.js": {
+    "Junior": 700,
+    "Middle": 1700,
+    "Senior": 2600
+  },
+  "Magento": {
+    "Junior": 500,
+    "Middle": 1200,
+    "Senior": 2000
+  },
+  "JavaScript": {
+    "Junior": 700,
+    "Middle": 1500,
+    "Senior": 2000
+  },
+  "Wordpress": {
+    "Junior": 500,
+    "Middle": 1000,
+    "Senior": 1400
+  },
+  "Node.js": {
+    "Junior": 1000,
+    "Middle": 1500,
+    "Senior": 2500
+  },
+  "React": {
+    "Junior": 1000,
+    "Middle": 2000,
+    "Senior": 3200
   }
+
 }

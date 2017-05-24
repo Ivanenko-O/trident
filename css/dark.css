@@ -578,7 +578,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 .dark .button-dark:not(.button-border),
 .dark .button:hover { background-color: rgba(0,0,0,0.3); }
 
-.dark .button-dark:hover { background-color: #1ABC9C; }
+.dark .button-dark:hover { background-color: #fff; }
 
 .dark .button-light:not(.button-border):hover { background-color: #282828; }
 
@@ -937,14 +937,14 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 	background-color: rgba(0,0,0,0.5);
 }
 
-.dark label { color: #BBB; }
+.dark label { color: #fff; }
 
 .dark label.label-muted { color: #777; }
 
 .dark #contact-form-overlay,
 .dark #contact-form-overlay-mini { background-color: #383838; }
 
-.dark .title-block > span { color: #999; }
+.dark .title-block > span { color: #fff; }
 
 .dark .heading-block:not(.not-dark),
 .dark .counter { text-shadow: 1px 1px 1px rgba(0,0,0,0.1); }
@@ -1214,7 +1214,7 @@ body #side-panel.dark #side-panel-trigger-close a {
 
 .dark .form-control:not(.not-dark),
 .dark .sm-form-control:not(.not-dark) {
-	color: #999;
+	color: #fff;
 	background-color: rgba(0,0,0,0.2);
 	border-color: rgba(0,0,0,0.25);
 }
